@@ -1,0 +1,12 @@
+{
+  "name": "style-vw-loader",
+  "version": "1.0.0",
+  "description": "将vue标签中的px单位转换为vw",
+  "main": "index.js",
+  "repository": "https://github.com/yyl-110/style-vw-loader.git",
+  "author": "yyl",
+  "license": "MIT",
+  "devDependencies": {
+    "loader-utils": "^2.0.0"
+  }
+}
